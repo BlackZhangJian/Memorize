@@ -15,6 +15,7 @@
 		4AEBED032769E70700E62BA5 /* MemorizeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AEBED022769E70700E62BA5 /* MemorizeUITests.swift */; };
 		4AEBED052769E70700E62BA5 /* MemorizeUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AEBED042769E70700E62BA5 /* MemorizeUITestsLaunchTests.swift */; };
 		4AEBED122769E86900E62BA5 /* MemorizeGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AEBED112769E86800E62BA5 /* MemorizeGame.swift */; };
+		4AEBED142769F10A00E62BA5 /* EmojiMemoryGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AEBED132769F10A00E62BA5 /* EmojiMemoryGame.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		4AEBED022769E70700E62BA5 /* MemorizeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemorizeUITests.swift; sourceTree = "<group>"; };
 		4AEBED042769E70700E62BA5 /* MemorizeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemorizeUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		4AEBED112769E86800E62BA5 /* MemorizeGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemorizeGame.swift; sourceTree = "<group>"; };
+		4AEBED132769F10A00E62BA5 /* EmojiMemoryGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiMemoryGame.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 				4AEBECE72769E70600E62BA5 /* MemorizeApp.swift */,
 				4AEBECE92769E70600E62BA5 /* ContentView.swift */,
 				4AEBED112769E86800E62BA5 /* MemorizeGame.swift */,
+				4AEBED132769F10A00E62BA5 /* EmojiMemoryGame.swift */,
 				4AEBECEB2769E70700E62BA5 /* Assets.xcassets */,
 				4AEBECED2769E70700E62BA5 /* Preview Content */,
 			);
@@ -263,6 +266,7 @@
 				4AEBECEA2769E70600E62BA5 /* ContentView.swift in Sources */,
 				4AEBECE82769E70600E62BA5 /* MemorizeApp.swift in Sources */,
 				4AEBED122769E86900E62BA5 /* MemorizeGame.swift in Sources */,
+				4AEBED142769F10A00E62BA5 /* EmojiMemoryGame.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
